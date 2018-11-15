@@ -37,7 +37,7 @@ int main()
 				temp[k++]=A[i++];
 			while(j<=h2)
 				temp[k++]=A[j++];
-			l1=h2+1; 
+			l1=h2+1;
 		}
 		for(i=l1; k<n; i++) 
 			temp[k++]=A[i];
