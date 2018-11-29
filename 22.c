@@ -95,7 +95,7 @@ void main()
 
         }
     }
-    
+    printf("Postfix form: ");
     postfix(top_op,head_op);
     printf("%s",post);
 }
