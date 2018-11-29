@@ -1,3 +1,8 @@
+/*
+	6. QUICK SORT: NON RECURSIVE
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
 #include<stdio.h>
 
 void main()
