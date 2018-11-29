@@ -1,0 +1,6 @@
+
+Enter the number of elements: 5
+
+Enter the numbers: 8 2 1 0 9
+Heap array: 9	8	1	0	2	
+The sorted array: 0 	1 	2 	8 	9 
