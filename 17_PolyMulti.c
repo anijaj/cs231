@@ -1,3 +1,10 @@
+
+/*
+	17. Polynomial Multiplication
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
