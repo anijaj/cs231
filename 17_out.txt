@@ -1,0 +1,39 @@
+First Polynomial 
+Enter coefficient: 1
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 2
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 1
+Enter exponent: 0
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+
+Second polynomial 
+Enter coefficient: 1
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 2
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 1
+Enter exponent: 0
+1. Add more elements
+2. Continue
+Enter choice: 
+2
+F(p) = 1 p2 + 2 p2 + 1 p0 + 0
+F(q) = 1 q2 + 2 q2 + 1 q0 + 0
+F(r) = 9 r4 + 6 r2 + 1 r0 + 0
+
