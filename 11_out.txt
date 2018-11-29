@@ -1,0 +1,62 @@
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 1
+Enter the element: 8
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 1
+Enter the element: 2
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 3
+Enter the element: 6
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 4
+2 -> 8 -> 6 -> NULL
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 2
+Enter the element after which the new element has to be inserted: 2
+Enter the element: 5
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 4
+2 -> 5 -> 8 -> 6 -> NULL
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Display
+5. Exit
+Enter a choice: 5
+
