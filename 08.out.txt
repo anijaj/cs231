@@ -1,0 +1,8 @@
+Script started on 2018-11-29 18:01:51+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ ./a.outgcc 2.c[K[K[K8.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 8.c./a.out
+Enter the number of elements: 4
+Enter te elements: 8 1 5 6
+Sorted Array: 1	5	6	8	]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 18:02:17+0530
