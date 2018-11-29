@@ -1,0 +1,93 @@
+Script started on 2018-11-29 22:51:42+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 27.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 27.c[1P./a.out
+
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 1
+Enter the value of element: 9
+NO SPACE!
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 7 1
+Enter the value of element: 6
+NO SPACE!
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 3
+Enter the element: 6 4
+
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 3
+Enter the element: 2
+
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 5
+4 -> 2 -> 
+Front: 1
+End: 2
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 2
+Deleted 4
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 2
+2 Deleted!
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 5
+Queue is EMPTY
+MENU
+1.Insertion(Front)
+2.Deletion(Front)
+3.Insertion(End)
+4.Deletion(End)
+5.Display
+6.Exit
+Enter Choice: 1 6
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 22:57:17+0530
