@@ -1,3 +1,10 @@
+
+/*
+	27. Implementation of dequeue using array
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
