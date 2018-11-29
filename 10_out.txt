@@ -1,0 +1,18 @@
+
+Enter number of elements: 5
+Enter the elements: 6 9 5 2 1
+Enter the element to be searched: 5
+The sorted list in ascending order : 1 	2 	5 	6 	9 	
+5 found at location 3.
+
+Enter number of elements: 3 4
+Enter the elements: 2 0 4
+1 Enter the element to be searched: 1
+The sorted list in ascending order : 0 	2 	4 	32765 	
+Not found!
+1 not present in the list.
+
+
+
+
+
