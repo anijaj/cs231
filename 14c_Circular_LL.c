@@ -1,6 +1,6 @@
 
 /*
-	13. Circular Singly LL - insert anywhere, search and insert
+	14.c) Circular Singly LL - head, search and delete
 	NAME : ANIJA J
 	ROLL No. : 07
 */
