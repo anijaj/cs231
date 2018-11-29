@@ -1,0 +1,125 @@
+Script started on 2018-11-30 01:59:44+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 14b.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 14b.c[2P./a.out
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:1
+Enter the element: 8
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:1
+Enter the element: 4
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:3
+Enter data: 5
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:3
+Enter data: 1
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:6
+4 -> 8 -> 5 -> 1 -> NULL
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:2
+Enter the element after which new element has to be inserted: 8
+Enter the element: 0
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:6
+4 -> 8 -> 0 -> 5 -> 1 -> NULL
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:4
+Enter the element to be deleted: 5
+
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:5
+Enter the element to be searched: 5
+
+Element NOT FOUND!
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:6
+4 -> 8 -> 0 -> 1 -> NULL
+MENU
+1. Insertion at Beginning
+2. Insertion after search value
+3. Insertion at End
+4. Deletion
+5. Search
+6. Display
+7.Exit
+Enter a choice:7
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-30 02:00:45+0530
