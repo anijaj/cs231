@@ -1,6 +1,14 @@
+
+/*
+	32. Binary Tree Operations: Creation, Insertion, Deletion, Traversa Using Linked List
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
+
 struct tree
 {
  int info;
