@@ -1,0 +1,43 @@
+Script started on 2018-11-30 00:11:35+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 28.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 28.c[1P./a.out
+
+MENU
+1.Insertion
+2.Deletion
+3.Dispaly
+4.Exit
+Enter choice: 1
+Enter element: 8
+
+MENU
+1.Insertion
+2.Deletion
+3.Dispaly
+4.Exit
+Enter choice: 1
+Enter element: 7
+
+MENU
+1.Insertion
+2.Deletion
+3.Dispaly
+4.Exit
+Enter choice: 2
+
+MENU
+1.Insertion
+2.Deletion
+3.Dispaly
+4.Exit
+Enter choice: 3
+ 7 <-
+MENU
+1.Insertion
+2.Deletion
+3.Dispaly
+4.Exit
+Enter choice: 4
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-30 00:39:09+0530
