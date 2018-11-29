@@ -1,0 +1,60 @@
+Script started on 2018-11-29 22:24:45+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ ./a.out[K[K[K[K[K[K[Kgcc 18.c
+[01m[K18.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[K18.c:25:11:[m[K [01;35m[Kwarning: [m[Kassignment makes integer from pointer without a cast [[01;35m[K-Wint-conversion[m[K]
+     A[top][01;35m[K=[m[KNULL;
+           [01;35m[K^[m[K
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 18.c[1P./a.out
+
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 1
+Enter the elements: 8
+Elements PUSHED!
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 1
+Enter the elements: 5
+Elements PUSHED!
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 3
+Elements are: 5 -> 8 -> NULL
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 2
+Popped out 5
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 3
+Elements are: 8 -> NULL
+MENU
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+
+Enter a Choice: 4
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 22:25:24+0530
