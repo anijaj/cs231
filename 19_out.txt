@@ -1,10 +1,3 @@
-Script started on 2018-11-30 01:51:07+0530
-]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 19.c
-[01m[K19.c:[m[K In function ‘[01m[Kmain[m[K’:
-[01m[K19.c:14:12:[m[K [01;35m[Kwarning: [m[Kassignment makes integer from pointer without a cast [[01;35m[K-Wint-conversion[m[K]
-  temp->data[01;35m[K=[m[KNULL;
-            [01;35m[K^[m[K
-]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 19.c[1P./a.out
 
 MENU
 1. PUSH
@@ -64,6 +57,3 @@ MENU
 4. EXIT
 
 Enter a choice: 4
-]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
-
-Script done on 2018-11-30 01:51:33+0530
