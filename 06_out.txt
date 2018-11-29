@@ -1,0 +1,9 @@
+Script started on 2018-11-29 18:54:41+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 6.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 6.c./a.out
+Enter total number of elements: 4
+Enter the elements: 8 7 2 0
+After merge sort:
+0	2	7	8	]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 18:54:58+0530
