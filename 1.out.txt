@@ -1,0 +1,9 @@
+Script started on 2018-11-29 18:48:52+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ ./a.outgcc 4.c[1Pscript./a.outgcc 3.c./a.out[1Pscriptgcc 4.c./a.out[Kgcc 1.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 1.c./a.out
+Enter the number of elements: 5
+Enter the elements: 8 7 1 2 0
+Enter the element to be searched: 8 7
+7 found at postion '2']0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 18:49:36+0530
