@@ -1,0 +1,110 @@
+Script started on 2018-11-30 01:37:38+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 30.c
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 30.c[1P./a.out
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 1
+Enter element: 9
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 1
+Enter element: 6
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 2
+Enter element: 1
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 2
+Enter element: 6
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 5
+6 <->9 <->1 <->6 <->NULL
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 3
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 5
+9 <->1 <->6 <->NULL
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 4
+
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 5
+9 <->1 <->NULL
+
+MENU
+1.Insertion(front)
+2.Insertion(end)
+3.Deletion(front)
+4.Deletion(end)
+5.Display
+6.Exit
+Enter choice: 6
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-30 01:38:50+0530
