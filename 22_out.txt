@@ -1,0 +1,33 @@
+Script started on 2018-11-29 22:42:43+0530
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ ./a.outgcc 22.c
+[01m[K22.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[K22.c:42:27:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kmalloc[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+     head_op=(struct node*)[01;35m[Kmalloc[m[K(sizeof(struct node));
+                           [01;35m[K^~~~~~[m[K
+[01m[K22.c:42:27:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kmalloc[m[K’
+[01m[K22.c:42:27:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kmalloc[m[K’
+[01m[K22.c:43:19:[m[K [01;35m[Kwarning: [m[Kassignment makes integer from pointer without a cast [[01;35m[K-Wint-conversion[m[K]
+     head_op->value[01;35m[K=[m[KNULL;
+                   [01;35m[K^[m[K
+[01m[K22.c:48:19:[m[K [01;35m[Kwarning: [m[Kassignment makes integer from pointer without a cast [[01;35m[K-Wint-conversion[m[K]
+     head_sy->value[01;35m[K=[m[KNULL;
+                   [01;35m[K^[m[K
+[01m[K22.c:55:15:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kstrlen[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+     for(i=0;i<[01;35m[Kstrlen[m[K(infix);i++)
+               [01;35m[K^~~~~~[m[K
+[01m[K22.c:55:15:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kstrlen[m[K’
+[01m[K22.c:55:15:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<string.h>[m[K’ or provide a declaration of ‘[01m[Kstrlen[m[K’
+[01m[K22.c:66:21:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kfree[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+                     [01;35m[Kfree[m[K(temp);
+                     [01;35m[K^~~~[m[K
+[01m[K22.c:66:21:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kfree[m[K’
+[01m[K22.c:66:21:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kfree[m[K’
+[01m[K22.c:78:21:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kfree[m[K’
+                     [01;35m[Kfree[m[K(temp);
+                     [01;35m[K^~~~[m[K
+[01m[K22.c:78:21:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kfree[m[K’
+]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 22.c[1P./a.out
+Enter the infix form: ((4+5)*9)
+Postfix form: 45+9*]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2018-11-29 22:43:01+0530
