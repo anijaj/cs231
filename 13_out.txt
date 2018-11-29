@@ -1,0 +1,69 @@
+
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:1
+Enter data: 8
+
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:1
+Enter data: 9
+
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:5
+8 -> 9 -> 8
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:4
+Enter the element: 8
+
+Element found!
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:3
+Enter the element: 9
+
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:5
+8 -> 8
+MENU
+1.Insertion at End
+2.Insertion in Between
+3.Deletion
+4.Search
+5.Display
+6.Exit
+Enter choice:6
+
