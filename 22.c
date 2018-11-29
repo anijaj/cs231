@@ -1,3 +1,10 @@
+
+/*
+	22. Stack: Infix to postfix conversion
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 
 struct node
