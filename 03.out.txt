@@ -1,0 +1,5 @@
+
+Enter the number of elements: 5
+Enter the elements: 4 9 0 1 7
+
+Sorted Array : 0	1	4	7	9
