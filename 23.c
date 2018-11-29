@@ -1,5 +1,13 @@
+
+/*
+	23. Stack: Postfix expression evaluation
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
+
 int power(int base, int exponent) {
   if (exponent==1) {
     return 1;
@@ -7,6 +15,7 @@ int power(int base, int exponent) {
     return base*power(base, exponent-1);
   }
 }
+
 int evaluvate(int operand1, int operator, int operand2) {
   switch(operator) {
     case '+':
@@ -24,12 +33,14 @@ int evaluvate(int operand1, int operator, int operand2) {
       exit(0);
   }
 }
+
 int isOperand(char symbol) {
   if ((symbol>=48 && symbol<=57)) {
     return 1;
   }
   return 0;
 }
+
 int main() {
   char postfix[20];
   int stack[100];
