@@ -1,3 +1,9 @@
+/*
+	1.SEQUENTIAL SEARCH
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 
 void main()
