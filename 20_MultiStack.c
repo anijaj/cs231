@@ -52,8 +52,8 @@ void main()
 			else
 			{	printf("Popped out %d",A[top2]);
 				for(i=top2 ; i<30 ; i++)
-					{	printf("%d -> ",A[i]);
-					}
+				{	printf("%d -> ",A[i]);
+				}
 				printf("NULL");
 			}
 		}
