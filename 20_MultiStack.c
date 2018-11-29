@@ -48,10 +48,17 @@ void main()
 		{	if(top2==30)
 			{	printf("Stack is EMPTY!");
 			}
-			
-			else
-			{	printf("Popped out %d",A[top2]);
-				for(i=top2 ; i<30 ; i++)
+		 
+		 	else
+			{	printf("Popped out : %d",A[top2]);
+			 	A[top2]=NULL;
+			 	top2+=1;
+			}
+		}
+	 
+	 	else if(n==6)
+		{	printf("Elements are: ");
+		 	for(i=top2 ; i<30 ; i++)
 				{	printf("%d -> ",A[i]);
 				}
 				printf("NULL");
