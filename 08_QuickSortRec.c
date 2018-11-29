@@ -1,3 +1,9 @@
+/*
+	5. MERGE SORT: RECURSIVE
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 
 void quicksort(int A[50], int l, int h);
