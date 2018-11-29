@@ -1,7 +1,7 @@
 
 /*
 	28. Implementation of Circular Queue using Array
-    NAME : ANIJA J
+    	NAME : ANIJA J
 	ROLL No. : 07
 */
 
