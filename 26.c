@@ -1,3 +1,10 @@
+
+/*
+	26. Implementation of Queue using Array
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
