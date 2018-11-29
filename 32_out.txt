@@ -1,0 +1,121 @@
+
+
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 8
+
+ root is 8
+ Inorder traversal of binary tree is :  8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 2
+
+ root is 8
+ Inorder traversal of binary tree is :  2 8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 1
+
+ Enter new element: 9
+
+ root is 8
+ Inorder traversal of binary tree is :  2 8 9
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 4
+
+ Postorder traversal of binary tree is :  2 9 8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 5
+
+ Preorder traversal of binary tree is :  8 2 9
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 2
+
+ Enter the element to be deleted : 9
+ 2 8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 6
+
+ Search and replace operation in binary tree 
+ Enter the element to be searched :9
+
+ Element 9 does not exist in the binary tree
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 6
+
+ Search and replace operation in binary tree 
+ Enter the element to be searched :2
+
+ Element 2 which was searched is found and is = 2
+ Do you want replace it, press 1 for yes : 1
+
+ Enter new element :3
+
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 3
+
+ Inorder traversal of binary tree is :  3 8
+ 	 1. Insert in Binary Tree  
+	 2. Delete from Binary Tree 
+	 3. Inorder traversal of Binary tree
+	 4. Postorder traversal of Binary tree
+	 5. Preorder traversal of Binary tree
+	 6. Search and replace 
+	 7. Exit 
+	 Enter choice : 7
+
