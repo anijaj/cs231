@@ -1,11 +1,3 @@
-Script started on 2018-11-29 22:33:42+0530
-]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ ./a.outgcc 21.c
-[01m[K21.c:[m[K In function ‘[01m[Kmain[m[K’:
-[01m[K21.c:19:19:[m[K [01;35m[Kwarning: [m[Kassignment makes integer from pointer without a cast [[01;35m[K-Wint-conversion[m[K]
-     head_op->value[01;35m[K=[m[KNULL;
-                   [01;35m[K^[m[K
-]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ gcc 21.c[1P./a.out
-Enter the infix form: (3+1)*5
- 5 -> * -> ) -> 1 -> + -> 3 -> ( ->]0;anija@anija-HP-Laptop-15-bs1xx: ~/Desktop[01;32manija@anija-HP-Laptop-15-bs1xx[00m:[01;34m~/Desktop[00m$ exit
 
-Script done on 2018-11-29 22:34:05+0530
+Enter the infix form: (3+1)*5
+ 5 -> * -> ) -> 1 -> + -> 3 -> ( ->
