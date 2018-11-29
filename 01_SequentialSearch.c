@@ -8,7 +8,7 @@
 
 int main()
 
-	{
+{
 	int A[50],i,n,x;
 	printf("Enter the number of elements: ");
 	scanf("%d",&n);
@@ -36,6 +36,6 @@ int main()
 		printf("Not found !");
 		}
 	return 0;	
-	}
+}
 	
 
