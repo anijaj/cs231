@@ -1,0 +1,4 @@
+
+Enter the postfix expression : 45+7*
+63
+
