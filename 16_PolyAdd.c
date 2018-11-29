@@ -1,3 +1,9 @@
+/*
+	16. Polynomial addition
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<malloc.h>
 
