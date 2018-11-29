@@ -1,3 +1,10 @@
+
+/*
+	20. Multiple Stack using Array
+	NAME : ANIJA J
+	ROLL No. : 07
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
